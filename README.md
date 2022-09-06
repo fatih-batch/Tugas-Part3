@@ -9,7 +9,7 @@ git clone https://github.com/fatih-batch/Tugas-Part3.git
 ```
 
 setelah itu buat repository pada github organization kalian dengan format `Basic-Programming-Part4`, lalu copy link HTTPS seperti gambar dibawah
-![repo clone](https://res.cloudinary.com/hypeotesa/image/upload/v1645518258/screenshot_hn6mmu.png)
+![repo clone](https://github.com/Almas2442/upload-gambar/tree/main/Gambar)
 
 lalu jalankan perintah dibawah untuk mengganti remote git repository.
 
